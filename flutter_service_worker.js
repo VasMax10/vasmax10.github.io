@@ -14,14 +14,14 @@ const RESOURCES = {
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "version.json": "41c430796f98c0e1258bafbb9cfc7782",
-"main.dart.js": "554a30150fe50a0658bf5131c44f29ea",
-"index.html": "6123dec6c8a4eb08b1e5b46f35054df2",
-"/": "6123dec6c8a4eb08b1e5b46f35054df2",
+"main.dart.js": "2976a7e25300cd99b95bd21af36b158c",
+"index.html": "4d7183ff0e232cf4667bd6067b3ab468",
+"/": "4d7183ff0e232cf4667bd6067b3ab468",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
-"assets/NOTICES": "932a9ec1bfc779d4782d99e4578deb49"
+"assets/NOTICES": "73bbb121cc3093df86584fac89e21569"
 };
 
 // The application shell files that are downloaded before a service worker can
